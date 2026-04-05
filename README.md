@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **abhishekkhandait1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** AI and Spring Boot
+- 🌱 **I’m currently learning:** Spring Boot
 - 👯 **I’m looking to collaborate on:** AI related projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter abhishekkhandait1@gmail.com
