@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek khandait</h1>
 <h3 align="center">DSA | Spring Boot</h3>
-<img> align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811" </img>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-khandait&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-khandait" /> </p>
 
