@@ -9,9 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=abhishek-khandait&label=Profile%20views&color=grey&style=flat-square" alt="profile views"/>
 </p>
 
- <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="#”  </p>
-
-
 - 🔭 I’m currently learning **Spring Boot**
 
 - 👯 I’m open to collaborate on **Web Dev Projects**
