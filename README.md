@@ -7,8 +7,9 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhishek-khandait&label=Profile%20views&color=grey&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhishek-khandait&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-khandait" />
 </p>
+
 
 - 🔭 I’m currently learning **Spring Boot**
 
