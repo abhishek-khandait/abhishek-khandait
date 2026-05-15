@@ -28,11 +28,11 @@
   <a href="https://instagram.com/abhishekkhandait15" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
   </a>
-  <a href="https://www.leetcode.com/bdqnipo9nc" target="_blank">
+  <!-- <a href="https://www.leetcode.com/bdqnipo9nc" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
-  </a>
+  </a> --> 
 </p>
-
+<!-- make the above one anchor tag public to view leetcode -->
 
 <h3 align="left">Languages and Tools:</h3>
 
