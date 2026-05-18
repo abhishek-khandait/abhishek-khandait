@@ -59,30 +59,22 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-khandait&show_icons=true&locale=en" alt="abhishek-khandait" /></p>  -->
 
-<table>
-<tr>
-<td valign="top">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-khandait&theme=dark" />
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-# 🧠 Coding Platforms
-
-<a href="https://leetcode.com/u/bdqnipo9nc/">
+<p align="left">
   <img 
-    src="https://leetcard.jacoblin.cool/bdqnipo9nc?theme=dark&font=JetBrains%20Mono&ext=contest" 
-    alt="LeetCode Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-khandait&theme=dark"
+    width="49%"
   />
-</a>
+</p>
 
-</td>
-</tr>
-</table>
+<h1 align="left">🧠 Coding Platforms</h1>
 
+<p align="left">
+  <a href="https://leetcode.com/u/bdqnipo9nc/">
+    <img 
+      src="https://leetcard.jacoblin.cool/bdqnipo9nc?theme=dark&font=JetBrains%20Mono&ext=contest"
+      width="49%"
+    />
+  </a>
+</p>
 ---
 
