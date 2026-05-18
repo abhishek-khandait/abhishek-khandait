@@ -62,3 +62,45 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-khandait&theme=dark" />
 </p>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-khandait&theme=tokyonight" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-khandait&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-khandait&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-khandait&theme=tokyonight" width="32%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-khandait&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-khandait&theme=tokyonight&hide_border=true" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-khandait&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🧠 Coding Platforms
+
+<div align="center">
+
+<a href="https://leetcode.com/u/bdqnipo9nc/">
+  <img src="https://leetcard.jacoblin.cool/bdqnipo9nc?theme=dark&font=JetBrains%20Mono&ext=contest" />
+</a>
+
+</div>
+
+---
