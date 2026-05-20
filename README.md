@@ -66,7 +66,8 @@
   />
 </p>
 
-<h1 align="left">🧠 Coding Platforms</h1>
+
+<!-- <h1 align="left">🧠 Coding Platforms</h1>
 
 <p align="left">
   <a href="https://leetcode.com/u/bdqnipo9nc/">
@@ -75,6 +76,6 @@
       width="49%"
     />
   </a>
-</p>
+</p> -->
 ---
 
