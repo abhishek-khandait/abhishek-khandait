@@ -11,8 +11,6 @@
 </p>
  
 
-- 🔭 I’m currently learning **Spring Boot**
-
 - 👯 I’m open to collaborate on **Web Dev Projects**
 
 - 💬 Ask me about **Collaboration, Tech Support**
